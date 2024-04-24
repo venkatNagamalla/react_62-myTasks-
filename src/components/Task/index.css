@@ -1,0 +1,27 @@
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 15px 8px 15px;
+  background-color: #1a171d;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.task {
+  color: #f8f8f8;
+}
+
+.tag {
+  background-color: #f3aa4e;
+  color: #131213;
+  height: 28px;
+  min-width: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 30px;
+  padding: 0px 8px 0px 8px;
+}
